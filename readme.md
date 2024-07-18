@@ -9,7 +9,7 @@ This Python script is designed to help you determine the optimal grind size for 
 > Don't need no hateration, holleration
 > In this dancery
 > Let's get it **perculatin'** while you're waiting
-> So just dance for me\
+> So just dance for me
 
 ## Requirements
 
