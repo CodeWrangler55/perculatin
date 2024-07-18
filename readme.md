@@ -7,8 +7,11 @@ This Python script is designed to help you determine the optimal grind size for 
 [Family Affair by Mary J. Blige](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu?si=9a2f66bf7e974aba)
 
 > Don't need no hateration, holleration
+
 > In this dancery
+
 > Let's get it **perculatin'** while you're waiting
+
 > So just dance for me
 
 ## Requirements
