@@ -2,7 +2,7 @@
 
 This Python script is designed to help you determine the optimal grind size for brewing espresso by leveraging concepts from percolation theory. It allows you to input trial data from different grind sizes and outputs the optimal grind size based on extraction yield and uniform water percolation.
 
-#Suggested Listening
+##Suggested Listening
 
 "Don't need no hateration, holleration
 In this dancery
