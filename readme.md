@@ -43,7 +43,7 @@ This Python script is designed to help you determine the optimal grind size for 
 
 ### Step 2: Modify the Script
 
-1. **Download the Script**: Save the Python script `espresso_optimizer.py` provided below to your local machine.
+1. **Download the Script**: Save the Python script `espresso.py` provided below to your local machine.
 2. **Enter Trial Data**: Modify the `trials` list in the script to include your recorded trial data.
 
 ### Step 3: Run the Script
@@ -51,9 +51,7 @@ This Python script is designed to help you determine the optimal grind size for 
 1. **Navigate to Script Location**: Open your terminal or command prompt and navigate to the directory where you saved the script.
 2. **Run the Script**: Execute the script using the following command:
 
-   ```sh
-   python espresso_optimizer.py
-   ```
+   python espresso.py
 
 ### Step 4: View Results
 
