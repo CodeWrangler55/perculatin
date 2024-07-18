@@ -2,7 +2,7 @@
 
 This Python script is designed to help you determine the optimal grind size for brewing espresso by leveraging concepts from percolation theory. It allows you to input trial data from different grind sizes and outputs the optimal grind size based on extraction yield and uniform water percolation.  It is inspired by [the work](https://arxiv.org/pdf/2404.07276) of Tom Hutchcroft
 
-## Required Listening
+## Suggested Listening
 
 [Family Affair by Mary J. Blige](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu?si=9a2f66bf7e974aba)
 
